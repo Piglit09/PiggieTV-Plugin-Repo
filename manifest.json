@@ -1,0 +1,21 @@
+[
+  {
+    "guid": "57f814b0-11dd-40aa-83a3-3c4c83ef301f",
+    "name": "PiggieTV",
+    "description": "PiggieTV frontend and dashboard integration for Jellyfin.",
+    "overview": "Adds PiggieTV UI features, custom rows, signup integration, and dashboard controls.",
+    "owner": "Piglit09",
+    "category": "General",
+    "imageUrl": "https://raw.githubusercontent.com/Piglit09/PiggieTV-Plugin-Repo/main/images/piggietv.png",
+    "versions": [
+      {
+        "version": "1.0.0.0",
+        "changelog": "Initial PiggieTV plugin release.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/Piglit09/PiggieTV-Plugin-Repo/raw/main/plugins/PiggieTV.Plugin_1.0.0.0.zip",
+        "checksum": "B34E90F5A248C78C517AA1BB447F4F377F34B86731EE1F9DE5ECA7A09C0ED3EC",
+        "timestamp": "2026-05-24T00:00:00Z"
+      }
+    ]
+  }
+]
