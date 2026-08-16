@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/Piglit09/PiggieTV-Plugin-Repo/main/images/piggietv.png",
     "versions": [
       {
+        "version": "0.5.12.0",
+        "changelog": "Allows large Metadata Quality indexed-store migrations to finish while retaining a bounded inactivity watchdog for stalled initialization.",
+        "targetAbi": "10.11.11.0",
+        "sourceUrl": "https://github.com/Piglit09/PiggieTV-Plugin-Repo/raw/main/plugins/PiggieTV.Plugin_0.5.12.0.zip",
+        "checksum": "94EEF0485659D5DE71C312512D31A86C",
+        "timestamp": "2026-08-16T04:00:32Z"
+      },
+      {
         "version": "0.5.11.0",
         "changelog": "Adds the indexed Metadata Quality store, bounded AI-assisted review, native administration APIs, account backup/profile support, Grand Comics Database and expanded Reading metadata providers, plus playback and diagnostics hardening for Jellyfin 10.11.11.",
         "targetAbi": "10.11.11.0",
